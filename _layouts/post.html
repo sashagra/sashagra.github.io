@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Опубликовано: {% raw %}{{ page.date | localize: "%d %B %Y" }}{% endraw %}
+    Опубликовано: {{ page.date | localize: "%d %B %Y" }}
   </div>
 
   {% include disqus.html %}

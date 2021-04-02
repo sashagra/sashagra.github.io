@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Опубликовано: {% raw %}{{ page.date | localize: "%d %B %Y" }}{% endraw %}
   </div>
 
   {% include disqus.html %}

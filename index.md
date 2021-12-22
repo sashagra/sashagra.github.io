@@ -2,10 +2,27 @@
 layout: page
 ---
 
-## Hello
+## Привет
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, quod natus mollitia optio cumque explicabo non repellendus, totam culpa amet alias doloribus doloremque. Maiores nam nisi nemo neque voluptas corporis!
+Этот сайт только в самом начале. Здесь будет мой [блог](/blog), мои проекты и **CV**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, quod natus mollitia optio cumque explicabo non repellendus, totam culpa amet alias doloribus doloremque. Maiores nam nisi nemo neque voluptas corporis!
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, quod natus mollitia optio cumque explicabo non repellendus, totam culpa amet alias doloribus doloremque. Maiores nam nisi nemo neque voluptas corporis!
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, quod natus mollitia optio cumque explicabo non repellendus, totam culpa amet alias doloribus doloremque. Maiores nam nisi nemo neque voluptas corporis!
+### Чем могу быть вам полезен
+
+#### Программирую на:
+
+- python
+- javascript
+- typescript
+- bash
+
+#### Имею опыт в:
+
+- парсинг информации с сайтов
+- разработка web-приложений (SPA) на React
+- создание телеграм-ботов
+- верстка лендингов, создание сайтов на Wordpress
+- простые приложения для компьютера с графическим интерфейсом (GUI)
+- cli приложения и автоматизация всякого-разного
+- установка, настройка Linux на VPS, а также nginx, apache, vpn (WireGuard)
+
+Ссыка на мой гибхаб в подвале сайта

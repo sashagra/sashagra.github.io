@@ -27,3 +27,4 @@ categories: site web
 - <a href="https://jekyllrb.com/" target="_blank">Jekyll - официальный сайт</a>
 - <a href="https://www.reg.ru/domain/new/?rlink=reflink-7083213" target="_blank">Регистрация домена</a>
 - <a href="https://habr.com/ru/post/336266/" target="_blank">Статья на хабре о создании сайта на Jekyll</a>
+- <a href="https://guides.hexlet.io/markdown/" target="_blank">Понятное руководство по Markdown</a>

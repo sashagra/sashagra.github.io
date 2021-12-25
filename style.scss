@@ -298,3 +298,7 @@ footer {
 i.mastodon {
   background-image: url("./images/icons/Mastodon_Logo.svg");
 }
+
+a .svg-icon:hover {
+  opacity: .7;
+}
